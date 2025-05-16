@@ -1,7 +1,7 @@
 # 🏠 Projeto de Automação com Home Assistant
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/capa.jpg" width="600" alt="Capa do Projeto" />
+  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/capa.jpg" alt="Capa do Projeto" />
 </div>
 
 Este projeto utiliza o **Home Assistant**, uma plataforma open-source para automação residencial, com configurações escritas em **YAML**.
@@ -29,7 +29,7 @@ Com foco em conforto, segurança e praticidade, as automações desenvolvidas aq
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/2.jpg" width="500" alt="Imagem 1" />
+  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/2.jpg" alt="Imagem 1" />
 </div>
 
 ---
@@ -43,7 +43,7 @@ Com foco em conforto, segurança e praticidade, as automações desenvolvidas aq
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/3.jpg" width="500" alt="Imagem 2" />
+  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/3.jpg" alt="Imagem 2" />
 </div>
 
 
@@ -51,7 +51,7 @@ Com foco em conforto, segurança e praticidade, as automações desenvolvidas aq
 
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/1.jpg" width="500" alt="Imagem 3" />
+  <img src="https://raw.githubusercontent.com/Whuanderson/ap302/refs/heads/main/.gitassets/1.jpg" alt="Imagem 3" />
 </div>
 
 ---
