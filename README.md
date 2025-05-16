@@ -13,10 +13,9 @@ Com foco em conforto, segurança e praticidade, as automações desenvolvidas aq
 ## 🔌 Tecnologias e Integrações Utilizadas
 
 - **Home Assistant (YAML)** – Automação local e altamente personalizável.
-- **MQTT** – Comunicação entre sensores e controladores.
-- **Dispositivos ESPHome / Tasmota** – Para sensores e atuadores Wi-Fi.
-- **Assistentes de voz** – Google Assistant / Alexa.
-- **Zigbee e Z-Wave** – Protocolos de comunicação sem fio para casa inteligente.
+- **Dispositivos ESPHome** – Para sensores e atuadores Wi-Fi.
+- **Assistentes de voz** – Alexa.
+- **Zigbee** – Protocolos de comunicação sem fio para casa inteligente.
 
 ---
 
@@ -30,7 +29,7 @@ Com foco em conforto, segurança e praticidade, as automações desenvolvidas aq
 ---
 
 <div align="center">
-  <img src="./.gitassets/1.jpg" width="500" alt="Imagem 1" />
+  <img src="./.gitassets/2.jpg" width="500" alt="Imagem 1" />
 </div>
 
 ---
@@ -44,26 +43,15 @@ Com foco em conforto, segurança e praticidade, as automações desenvolvidas aq
 ---
 
 <div align="center">
-  <img src="./.gitassets/2.jpg" width="500" alt="Imagem 2" />
+  <img src="./.gitassets/3.jpg" width="500" alt="Imagem 2" />
 </div>
 
----
 
-## 📁 Organização do Projeto
-
-```
-📦 config/
- ┣ 📂 automations/
- ┣ 📂 scripts/
- ┣ 📂 sensors/
- ┣ 📂 scenes/
- ┗ configuration.yaml
-```
 
 ---
 
 <div align="center">
-  <img src="./.gitassets/3.jpg" width="500" alt="Imagem 3" />
+  <img src="./.gitassets/1.jpg" width="500" alt="Imagem 3" />
 </div>
 
 ---
